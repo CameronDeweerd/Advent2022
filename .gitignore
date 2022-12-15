@@ -361,3 +361,5 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/Advent2022/01/test_2022_01.py
+/Advent2022/01/aoc_2022_01.py
