@@ -120,7 +120,7 @@ namespace Advent2022.Solver.Day
         {
 
             List<List<string>> puzzleData = new();
-            string[] game = { "", "" };
+            string[] game;
 
             foreach (string line in puzzleInput)
             {
