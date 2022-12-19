@@ -77,17 +77,17 @@ namespace Advent2022
                 case "03":
                     daySolver = new Day3Solver(); break;
                 case "04":
-                    daySolver = new Day3Solver(); break;
+                    daySolver = new Day4Solver(); break;
                 case "05":
-                    daySolver = new Day3Solver(); break;
+                    daySolver = new Day5Solver(); break;
                 case "06":
-                    daySolver = new Day3Solver(); break;
+                    daySolver = new Day6Solver(); break;
                 case "07":
-                    daySolver = new Day3Solver(); break;
+                    daySolver = new Day7Solver(); break;
                 case "08":
-                    daySolver = new Day3Solver(); break;
+                    daySolver = new Day8Solver(); break;
                 case "09":
-                    daySolver = new Day3Solver(); break;
+                    daySolver = new Day9Solver(); break;
                 default:
                     throw new Exception("Invalid date entry");
             }
